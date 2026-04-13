@@ -36,5 +36,28 @@ Calculated marketing ROI across regions
 Analyzed year-over-year sales growth
 Detected seasonal trends in monthly sales
 
+# Power Bi Dashboard:- 
+ # Key Features:
+Interactive dashboard with filters (Country, Year)
+KPI cards:
+Total Sales
+Total Customers
+Marketing Spend
+ROI
+
+#  Visualizations:
+Bar Charts → Country-wise & Branch-wise Sales
+Line Chart → Monthly Sales Trend
+Scatter Plot → Marketing Spend vs Sales
+Regional Analysis Charts
+
+#  Business Insights:- 
+Certain countries contribute significantly to total revenue
+Marketing spend does not always guarantee higher sales
+Some regions show higher ROI, indicating efficient marketing
+Seasonal patterns observed in sales trends
+
+
+
 
 <img width="891" height="492" alt="Screenshot 2026-04-13 114803" src="https://github.com/user-attachments/assets/dbcb6c2b-4c62-4a4f-b752-007a40067080" />
