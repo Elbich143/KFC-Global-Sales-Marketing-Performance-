@@ -37,3 +37,4 @@ Analyzed year-over-year sales growth
 Detected seasonal trends in monthly sales
 
 
+<img width="891" height="492" alt="Screenshot 2026-04-13 114803" src="https://github.com/user-attachments/assets/dbcb6c2b-4c62-4a4f-b752-007a40067080" />
